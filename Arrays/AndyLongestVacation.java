@@ -1,3 +1,8 @@
+//infosys drive question , here we have N - No of days 
+//M - obllegations (meetings we need to attend)
+//k - no of meetings we can skip
+//boolean[] obllegations tells us which day which is vacation and which is meeting day 
+//we can remove K number of meeting and find out maximum continuous vacation
 import java.util.*;
 public class AndyLongestVacation{
     public static void main(String[] args) {
